@@ -3,7 +3,7 @@
 ## TASK: Implement a 2-tier web application architecture with MySQL database and NFS shared storage
 
 ## Prerequisites:
-**Infrastructure**: AWS Cloud Provider (Amazon Web Service)
+**Infrastructure**: the AWS Cloud Provider (Amazon Web Service)
 **Webserver Linux**: Red Hat Enterprise Linux 9
 **Database Server**: Ubuntu 24.04 + MySQL
 **Storage Server**: Red Hat Enterprise Linux 9 + NFS Server
