@@ -4,11 +4,11 @@
 
 
 ## Prerequisites:
-**Infrastructure**: AWS
+**Infrastructure**: AWS Cloud Provider
 **Webserver Linux**: Red Hat Enterprise Linux 9
 **Database Server**: Ubuntu 24.04 + MySQL
 **Storage Server**: Red Hat Enterprise Linux 9 + NFS Server
-**Programming Language**: PHP
+**Programming Language**: PHP Scripting Language
 **Code Repository**: GitHub
 - Open ports in security groups:
 
