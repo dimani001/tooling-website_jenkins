@@ -332,4 +332,4 @@ sudo systemctl restart httpd
 *All servers are properly configured with shared storage, database connectivity, and load balancing capability across multiple web servers.*
 Testing Jenkins webhook
 
-testing testing to see if jenkins will connect to the nfs server
+testing testing to see if jenkins will connect to the nfs server through SSH, last one was unstable
