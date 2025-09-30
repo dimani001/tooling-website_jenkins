@@ -4,7 +4,7 @@
 
 
 ## Prerequisites:
-**Infrastructure**: AWS Cloud Provider
+**Infrastructure**: AWS Cloud Provider (Amazon Web Service)
 **Webserver Linux**: Red Hat Enterprise Linux 9
 **Database Server**: Ubuntu 24.04 + MySQL
 **Storage Server**: Red Hat Enterprise Linux 9 + NFS Server
