@@ -2,7 +2,6 @@
 
 ## TASK: Implement a 2-tier web application architecture with MySQL database and NFS shared storage
 
-ii
 ## Prerequisites:
 **Infrastructure**: AWS Cloud Provider (Amazon Web Service)
 **Webserver Linux**: Red Hat Enterprise Linux 9
@@ -330,6 +329,4 @@ sudo systemctl restart httpd
 **MySQL Server**: 172.31.41.146
 
 *All servers are properly configured with shared storage, database connectivity, and load balancing capability across multiple web servers.*
-Testing Jenkins webhook
-
-testing testing to see if jenkins will connect to the nfs server through SSH, last one was unstable
+Testing for jenkins
