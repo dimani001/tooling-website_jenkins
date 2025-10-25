@@ -1,5 +1,5 @@
-# DEVOPS TOOLING WEBSITE SOLUTION with jenkins - Neche Ani Testing Jenkins
-ii
+# DEVOPS TOOLING WEBSITE SOLUTION with jenkins 
+
 ## TASK: Implement a 2-tier web application architecture with MySQL database and NFS shared storage
 
 ## Prerequisites:
@@ -278,7 +278,7 @@ sudo chmod -R 755 /var/www/html
 # Configure database connection
 ```bash
 sudo vi /var/www/html/functions.php
-# Update: $db = mysqli_connect('172.31.41.146', 'webaccess', 'StrongPass123!', 'tooling');
+# Update: $db = mysqli_connect('10.0.1.48', 'webaccess', 'StrongPass123!', 'tooling');
 ```
 
 # Import database schema
